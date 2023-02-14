@@ -1,2 +1,4 @@
-package it.alfasoft;public interface Scarpe {
+package it.alfasoft;
+
+public interface Scarpe {
 }

@@ -1,2 +1,4 @@
-package it.alfasoft;public class ScarpeGinnastica {
+package it.alfasoft;
+
+public class ScarpeGinnastica implements Scarpe{
 }
